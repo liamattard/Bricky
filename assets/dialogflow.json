@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bricky-222119",
+  "private_key_id": "bfa0247c406f709b71b5ff1714fd369da3e2c73b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDk4F8+/7HfN0gq\nrfVK4NWlJweHRjexHvsbIEbRgzX4O1yQEm9XYnf1Q1amQc7iXRa4lCco4iPPwH1W\nXsKJZGXPFDRLHB6rXLnq1+aLRFzczZwufVyMXh4HTwcKtw43URKkfxls4rWSLQuE\nEp7sO64Od8RGXUS0W2jujlS4eslc1WszGaJJSoAc7Izbn9M7goAsO/RjqoVEsTph\nHMmJ5l/DTkk91Fv9szgPz5r7YHmS0nQeQ0WP0eCsCAsCjc+XRuqCDFsvLHFvHPQU\nIH8Uj890aScQ+zK8Vex3xmQySZBr5Iwqdl0OBPD0nbDkOriFwsdtHNkOssuFaW8e\nP0BoNKHtAgMBAAECggEASwGjBSzbuHjP/DitQgBD089iHrlqx++MwFuICeJTvgmK\nMKbx+TPKd0S9sVewuqtiJlRbLwFJVizRhowgedE+sin/ZzwMawFE5oshwTNCsZPq\nYqvvuAqiEaga+S57iLJXhzQl+3KiqYh8lShbD7UROimS17J6MRch4MghSKHourSR\nfbr2V8J7FeFhOpHA5T+PpNfLzFDPe+4A8Z/XFmF9E7lks9oZI/FV9KC86/e5WzU6\n8WW6PBUxa/bhMMDrC70XedesJvCf9GweBudU1ETScvP2CtfLt3PEgVUi52jUW7oY\nxtzEX9yus2pv3tPd2fYJhTYLuHF2rlP+A15aRzJh+wKBgQD/em1kAfi6dlorQLXK\ndeUTgKKvfNmI/A7nz/2NRbbUDbvK/icqWkoP0EfMsi4xFBhSyzjE24jO+35OsXYg\nbefqhiu937Iqd0x+TBGU+zG1epSoAPPZ3UXsUasYWZeSk184ci/xCW5+MTj8ogGm\n6aJkpdPUDnilwexgr8RplMKAcwKBgQDlWAlTzW7nsbwaoBr2ypqPJHsEEgXnfkur\nbMOpZfDR9Doosy2q9DmU+lLoHOhwNiFwscllqs9xZqJDlUO3kaQL+D19rMYao5cx\nlYcGI26HozTfAS3SislFZMoRgA2yV2LR9xWIEBbbFMQM5P+B8+cVVDCy3rs1uGU4\nKEIMFNucHwKBgFNoENaZni6h/QYp9i/HFaasVHCefhau097ylIDOxcWtRiYbm4XE\nPHG1OfumIFZ9jQNavYnncl7A1Je0cDBeMVzruNQgd/ZNRHfnNcZBzBTHlEjVJsd1\n6iIg947XkRiVbHztKqGyxpQEVeqEqa1okU/yo5mTr+fNy/I08BbYLjfpAoGAQo5g\n7pQAqnaW+zcZfCNh5UaV+KFuWzb4qMAArElsMNHqiuMszp7fkw9uPfQdtGrRG45M\nvxdp6iP51RkdNMmsTNj2p2EbgKGXAAm/zJU9v1kqv8jszlv+ewf76EY8M1RO1lYZ\nRoo8x8ln98IBMGpi1nq/QzmGJNnlbf2o5S6saMsCgYEA4FYmSXfz1amDO0S/J9bG\n4YTSZHoNLrLnA9j0bV1WyufoT4Ml0Po+h7aN4ybkK5XfhkwGk1BH/BZL0Bp09kWN\nBzYITUFoZZIS/3IM+/1mQbfcqismSjlDGHJ4swh0WU4lILo0UQZVm3CNJRjVFvVn\n8AHAmlzIOSUsc0Tg7ZtOlUM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot@bricky-222119.iam.gserviceaccount.com",
+  "client_id": "110769819506516334036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40bricky-222119.iam.gserviceaccount.com"
+}
